@@ -1,26 +1,30 @@
 # Community Minecraft Launcher
 
-Custom Minecraft launcher developed in Python for a private gaming community.
+Custom Minecraft launcher developed in Python for a private Minecraft community.
 
 ## Purpose
 
-This launcher is designed to be used by members of a private Minecraft server community, including content creators and streamers.
+This launcher is designed for a private gaming community (approximately 20–50 users, including content creators and streamers).
 
-Its purpose is to simplify login and launching Minecraft Java Edition with pre-configured settings, ensuring a consistent experience for all community members.
+It allows users to log in with their Microsoft account and launch Minecraft Java Edition with pre-configured Forge modpacks.
+
+The launcher simplifies installation, updates, and configuration of required mods to ensure all community members use the correct versions.
 
 ## Features
 
-- Microsoft account login support
-- Custom launcher interface
-- Pre-configured game settings
-- Simplified access to community server
+- Microsoft account authentication
+- Automatic installation of Forge
+- Pre-configured modpack support
+- One-click modpack updates
+- Custom graphical launcher interface
 
 ## Distribution
 
-This launcher is intended for controlled distribution only to members of a specific private community server.
+This launcher is distributed only to members of a private community server.
 
 ## Technology
 
 - Python
 - minecraft_launcher_lib
 - CustomTkinter
+- Minecraft Forge
