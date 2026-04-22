@@ -1,10 +1,26 @@
-# Custom Minecraft Launcher
+# Community Minecraft Launcher
 
-This is a custom Minecraft launcher developed in Python.
+Custom Minecraft launcher developed in Python for a private gaming community.
 
-Features:
-- Microsoft account login
-- Minecraft Java Edition launching
-- Custom UI built with CustomTkinter
+## Purpose
 
-This project is developed for learning and personal use.
+This launcher is designed to be used by members of a private Minecraft server community, including content creators and streamers.
+
+Its purpose is to simplify login and launching Minecraft Java Edition with pre-configured settings, ensuring a consistent experience for all community members.
+
+## Features
+
+- Microsoft account login support
+- Custom launcher interface
+- Pre-configured game settings
+- Simplified access to community server
+
+## Distribution
+
+This launcher is intended for controlled distribution only to members of a specific private community server.
+
+## Technology
+
+- Python
+- minecraft_launcher_lib
+- CustomTkinter
