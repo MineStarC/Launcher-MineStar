@@ -4,7 +4,7 @@ Custom Minecraft launcher developed in Python for a private Minecraft community.
 
 ## Purpose
 
-This launcher is designed for a private gaming community (approximately 20–50 users, including content creators and streamers).
+This launcher is designed for a private gaming community (approximately 20–80 users, including content creators, streamers and their communities).
 
 It allows users to log in with their Microsoft account and launch Minecraft Java Edition with pre-configured Forge modpacks.
 
